@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653574454 source:c:\users\anjali choudhary\desktop\loginsystem\loginsystem.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1584205420 source:c:\users\anjali choudhary\desktop\loginsystem\main.cpp
+	<iostream>
+
